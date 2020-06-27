@@ -1,0 +1,4 @@
+* Teacher's blog: [Clearly Decoded](https://clearlydecoded.com/)
+* Course FAQs: [fullstack-course4 FAQs](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/FAQ.md)
+* Teacher's LinkedIn: [Yaakov Chaikin](https://www.linkedin.com/in/yaakovchaikin?challengeId=AQHwigeazp6G4wAAAXLwPcLD7qsfxmhD8IETHpIyrlFzZz_D6RUidCmklngkSKvucjaoGSPFFRZp_82ueoejqLJENb9RHydDzg&submissionId=5d36a656-4a12-1c16-8281-28556aa75d43)
+* Course repositori: [fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4)
