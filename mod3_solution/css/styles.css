@@ -1,0 +1,58 @@
+body {
+  font-size: 16px;
+  font-family: "Hind Siliguri", sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #c7dbb4;
+}
+.navbar-brand h1 {
+  color: #353a2f;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin: 0px;
+  line-height: 0.75;
+}
+.navbar-brand a:hover,
+.navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-header button.navbar-toggle:focus {
+  background-color: #b2bfa6;
+}
+.navbar-header button.navbar-toggle:hover {
+  background-color: #b2bfa6;
+}
+#nav-list a:hover {
+  background-color: #b2bfa6;
+}
+#nav-list a {
+  text-align: center;
+}
+#nav-list span {
+  margin-right: 1rem;
+}
+/** END HEADER **/
+
+/** MAIN CONTENT **/
+#menu-title {
+  font-weight: bold;
+}
+.box {
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  background-color: #e1f1e8;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+.box-body {
+  padding: 1.25rem;
+}
+.box-title {
+  padding: 0.75rem 1.25rem;
+  background-color: #b4c1ba;
+  font-weight: bold;
+}
+/** END MAIN CONTENT **/
